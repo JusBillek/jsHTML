@@ -1,2 +1,0 @@
-# jsHTML
-Created with CodeSandbox
