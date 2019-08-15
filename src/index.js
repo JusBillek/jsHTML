@@ -1,8 +1,8 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>page</h1>
+<h1>testinggit</h1>
 <div>
-  text.
+  git test
 </div>
 `;
